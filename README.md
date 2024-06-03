@@ -1,18 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Shalu Saroj</h1>
 <h3 align="center">A passionate Data Scientist based in New York.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalu-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="shalu-saroj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalu-saroj" alt="shalu-saroj" /></a> </p>
-
 - 🔭 I’m currently working on **Open CV and gen AI.**
 
-- 🌱 I’m currently learning **about LLM and Augmented Reality**
+- 🌱 I’m currently learning **about LLM and Augmented Reality.**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/shalusaroj10](https://www.datascienceportfol.io/shalusaroj10)
 
-- 💬 Ask me about **machine learning and deep learning**
+- 💬 Ask me about **machine learning and deep learning.**
 
 - 📫 How to reach me **shalusaroj.dev@gmail.com**
 
@@ -30,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalu-saroj&show_icons=true&locale=en" alt="shalu-saroj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-saroj&" alt="shalu-saroj" /></p>
-
